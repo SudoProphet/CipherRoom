@@ -2,14 +2,14 @@
 
 **CipherRoom** is an interactive, historically inspired educational web app that teaches the fundamentals of classical and modern ciphers — from ancient Spartan tools to digital-era encryption techniques.
 
-> 🧠 This project was fully generated with the help of AI (ChatGPT). The concept, direction, structure, and content goals were designed and directed by me.
+> 🧠 This project was fully generated with the help of AI (. The concept, direction, structure, and content goals were designed and directed by me.
 
 ---
 
 ## 🌐 Live Demo
 
 Visit the deployed app here:  
-👉 [https://yourusername.github.io/cipherroom](https://yourusername.github.io/cipherroom)
+👉 [https://SudoProphet.github.io/cipherroom](https://SudoProphet.github.io/cipherroom)
 
 ---
 
